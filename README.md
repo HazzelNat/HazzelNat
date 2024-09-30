@@ -1,4 +1,7 @@
-## Hi there 👋
+HELLO!
+
+My name is Hazzel Nathaniel Wu. 
+Computer Science Student at Binus University majoring in Game Application Technology
 
 <!--
 **HazzelNat/HazzelNat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
