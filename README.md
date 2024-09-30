@@ -1,12 +1,12 @@
-Hello! I'm Hazzel Nathaniel Wu
+### Hello! I'm Hazzel Nathaniel Wu
 
-** About ** <br>
+**About** <br>
 
 Hello, my name is Hazzel Nathaniel Wu. I'm an aspiring game developer, still studying at Binus University.
 
 <br>
 
-** E-mail **
+**E-mail**
 hazzelnathaniel25@gmail.com
 
 <br>
