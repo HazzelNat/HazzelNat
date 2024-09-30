@@ -1,11 +1,13 @@
-HELLO!
+##HELLO!
 
-My name is Hazzel Nathaniel Wu
-Computer Science Student at Binus University majoring in Game Application Technology
+##My name is Hazzel Nathaniel Wu
+##Computer Science Student at Binus University majoring in Game Application Technology
 
 
-GOTHIC PLATFORMER
+#GOTHIC PLATFORMER
+
 ![SideScroller](https://github.com/user-attachments/assets/32c836eb-ef19-4a26-9863-cd60bec3f4a0)
+
 Gothic Platformer is a simple side scrolling platformer with gothic medieval theme.
 
 
