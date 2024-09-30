@@ -6,6 +6,8 @@ Hello, my name is Hazzel Nathaniel Wu. I'm an aspiring game developer, still stu
 
 <br>
 
+<br>
+
 **E-mail**
 hazzelnathaniel25@gmail.com
 
