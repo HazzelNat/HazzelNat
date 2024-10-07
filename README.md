@@ -45,8 +45,8 @@ hazzelnathaniel25@gmail.com
 <table width="100%">
   <thead>
     <tr>
-      <th width="50%" align="center"><a>TEXT</a></th> <!--tittle 3-->
-      <th width="50%" align="center"><a>TESxT</a></th> <!--tittle 4-->
+      <th width="50%" align="center"><a>Wild Rescue</a></th> <!--tittle 3-->
+      <th width="50%" align="center"><a>-</a></th> <!--tittle 4-->
     </tr>
   </thead>
   <tbody>
@@ -59,12 +59,8 @@ hazzelnathaniel25@gmail.com
       </td>
     </tr>
     <tr>
-      <td valign="text-top">Shevia Fire is a safety training application utilizing Virtual Reality platforms like Meta Quest 3. It features modules on using fire blankets, as well as handling indoor and outdoor fire scenarios. The application was developed in under two months. As the Project Lead, I was responsible for task delegation, timeline management, and product design.</td> <!--desc-->
-      <td valign="text-top">Shevia Augmented Reality is a Safety Induction application using Augmented Reality, featuring a 3D viewer with visual and audio explanations. As a Unity Programmer, I developed the main mechanics of the application in under five days. This application was used within the Pertamina Group during a safety event.</td> <!--desc-->
-    </tr>
-    <tr>
-      <td align="center"><a href="">Read More</a></td> <!--link 3-->
-      <td align="center"><a href="">Read More</a></td> <!--link 4-->
+      <td valign="text-top">Wild Rescue is a top-down shooter. You play as a ranger that needs to track endangered animals to tag them. Use your sleep dart gun to put them to sleep./td> <!--desc-->
+      <td valign="text-top">-</td> <!--desc-->
     </tr>
   </tbody>
 </table>
