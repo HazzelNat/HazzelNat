@@ -28,16 +28,12 @@ hazzelnathaniel25@gmail.com
       </td>
     </tr>
     <tr>
-      <td valign="text-top">ProjectStir [Pre-Alpha] is a meticulously crafted driving simulation application designed to assess driving skills through a game-centric approach. My contributions include serving as the project lead, where I prioritized and coordinated tasks, and also acting as the game designer. This project was completed in less than two days for an event by BINUS University's Game Application Technology department.</td> <!--desc-->
-      <td valign="text-top">Hopeless is a side-scrolling game that combines the mechanics of Cat Mario with the art style of Limbo. I use this game as a teaching material to introduce basic game programming concepts using Unity. The core game mechanics can be developed in less than one day</td> <!--desc-->
+      <td valign="text-top">Simple Pong is the first game made in Unity, there are single player or two-player mode, other than that it's a simple pong, really.</td> <!--desc-->
+      <td valign="text-top">Gothic Platformer is a side scrolling platformer themed in a fantasy medieval time. You play as the knight and try to get to the finish, while avoiding supernatural monsters.</td> <!--desc-->
     </tr>
     <tr>
       <td align="center"><a href="">Read More</a></td> <!--link1-->
       <td align="center"><a href="">Read More</a></td> <!--link2-->
-    </tr>
-    <tr>
-      <td align="center"><a href="">Trailer</a></td> <!--link1-->
-      <td align="center"><a href="">Trailer</a></td> <!--link2-->
     </tr>
   </tbody>
 </table>
@@ -49,8 +45,8 @@ hazzelnathaniel25@gmail.com
 <table width="100%">
   <thead>
     <tr>
-      <th width="50%" align="center"><a>Shevia Fire VR</a></th> <!--tittle 3-->
-      <th width="50%" align="center"><a>Shevia AR</a></th> <!--tittle 4-->
+      <th width="50%" align="center"><a>TEXT</a></th> <!--tittle 3-->
+      <th width="50%" align="center"><a>TESxT</a></th> <!--tittle 4-->
     </tr>
   </thead>
   <tbody>
@@ -69,10 +65,6 @@ hazzelnathaniel25@gmail.com
     <tr>
       <td align="center"><a href="">Read More</a></td> <!--link 3-->
       <td align="center"><a href="">Read More</a></td> <!--link 4-->
-    </tr>
-    <tr>
-      <td align="center"><a href="">Trailer</a></td> <!--link 3-->
-      <td align="center"><a href="">Trailer</a></td> <!--link 4-->
     </tr>
   </tbody>
 </table>
