@@ -1,12 +1,12 @@
 ### Hello! I'm Hazzel Nathaniel Wu
 
-**ABOUT** <br>
+📌**ABOUT** <br>
 
-Hello, my name is Hazzel Nathaniel Wu. I'm an aspiring game developer, still studying at Binus University.
+Hello, my name is Hazzel Nathaniel Wu. Student of Binus University Bandung in School of Computer Science, mainly learning game development.
 
 <br>
 
-**E-mail**<br>
+📩**E-mail**<br>
 hazzelnathaniel25@gmail.com
 
 <br>
