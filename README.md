@@ -21,19 +21,15 @@ hazzelnathaniel25@gmail.com
   <tbody>
     <tr>
       <td align="center">
-        <img src="![SideScroller](https://github.com/user-attachments/assets/bd8e0b3c-3058-493c-9088-79b89f8abb4e)" alt="1" style="width:100%;height:auto;">
+        <img src="https://github.com/HazzelNat/HazzelNat/blob/main/Space%20Pong.gif" alt="1" style="width:100%;height:auto;">
       </td>
       <td align="center">
-        <img src="" alt="2" style="width:100%;height:auto;">
+        <img src="https://github.com/HazzelNat/HazzelNat/blob/main/SideScroller.gif" alt="2" style="width:100%;height:auto;">
       </td>
     </tr>
     <tr>
       <td valign="text-top">Simple Pong is the first game made in Unity, there are single player or two-player mode, other than that it's a simple pong, really.</td> <!--desc-->
       <td valign="text-top">Gothic Platformer is a side scrolling platformer themed in a fantasy medieval time. You play as the knight and try to get to the finish, while avoiding supernatural monsters.</td> <!--desc-->
-    </tr>
-    <tr>
-      <td align="center"><a href="">Read More</a></td> <!--link1-->
-      <td align="center"><a href="">Read More</a></td> <!--link2-->
     </tr>
   </tbody>
 </table>
@@ -52,7 +48,7 @@ hazzelnathaniel25@gmail.com
   <tbody>
     <tr>
       <td align="center">
-        <img src="" alt="1" style="width:100%;height:auto;">
+        <img src="https://github.com/HazzelNat/HazzelNat/blob/main/Wild%20Rescue.gif" alt="1" style="width:100%;height:auto;">
       </td>
       <td align="center">
         <img src="" alt="2" style="width:100%;height:auto;">
