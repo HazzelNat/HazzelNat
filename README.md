@@ -1,4 +1,6 @@
-### Hello! I'm Hazzel Nathaniel Wu
+### 👋Hello! I'm Hazzel Nathaniel Wu
+
+---
 
 📌**ABOUT** <br>
 
@@ -8,7 +10,7 @@ Hello, my name is Hazzel Nathaniel Wu. Student of Binus University Bandung in Sc
 📩**E-mail**<br>
 hazzelnathaniel25@gmail.com
 
-<br>
+--- 
 
 <table width="100%">
   <thead>
@@ -55,7 +57,7 @@ hazzelnathaniel25@gmail.com
     </tr>
     <tr>
       <td valign="text-top">Wild Rescue is a top-down shooter. You play as a ranger that needs to track endangered animals to tag them. Use your sleep dart gun to put them to sleep.</td> <!--desc-->
-      <td valign="text-top">WIP</td> <!--desc-->
+      <td valign="text-top">Auto Market Manager is a 2D game about managing a futuristic supermarket with robots.</td> <!--desc-->
     </tr>
   </tbody>
 </table>
