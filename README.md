@@ -2,8 +2,7 @@
 
 📌**ABOUT** <br>
 
-Hello, my name is Hazzel Nathaniel Wu. Student of Binus University Bandung in School of Computer Science, mainly learning game development.
-
+Hello, my name is Hazzel Nathaniel Wu. Student of Binus University Bandung in School of Computer Science, mainly learning game development and predominantly use Unity as a game engine
 <br>
 
 📩**E-mail**<br>
