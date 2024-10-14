@@ -56,7 +56,7 @@ hazzelnathaniel25@gmail.com
       </td>
     </tr>
     <tr>
-      <td valign="text-top">Wild Rescue is a top-down shooter. You play as a ranger that needs to track endangered animals to tag them. Use your sleep dart gun to put them to sleep.</td> <!--desc-->
+      <td valign="text-top">Wild Rescue is a Software Engineering project, it is top-down shooter game. You play as a ranger that needs to track endangered animals. Use your sleep dart gun to put them to sleep to tag them.</td> <!--desc-->
       <td valign="text-top">[WIP]Auto Market Manager is a 2D game about managing a futuristic supermarket with robots.[WIP]</td> <!--desc-->
     </tr>
   </tbody>
