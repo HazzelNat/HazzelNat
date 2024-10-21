@@ -32,6 +32,10 @@ hazzelnathaniel25@gmail.com
       <td valign="text-top">Simple Pong is the first game made in Unity, there are single player or two-player mode, other than that it's a simple pong, really.</td> <!--desc-->
       <td valign="text-top">Gothic Platformer is a side scrolling platformer themed in a fantasy medieval time. You play as the knight and try to get to the finish, while avoiding supernatural monsters.</td> <!--desc-->
     </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/HazzelNat/WILDRESCUE2">Read More</a></td> <!--link1-->
+      <td align="center"><a href="https://github.com/HazzelNat/SideScroller">Read More</a></td> <!--link2-->
+    </tr>
   </tbody>
 </table>
 
@@ -58,6 +62,10 @@ hazzelnathaniel25@gmail.com
     <tr>
       <td valign="text-top">Wild Rescue is a Software Engineering project, it is top-down shooter game. You play as a ranger that needs to track endangered animals. Use your sleep dart gun to put them to sleep to tag them.</td> <!--desc-->
       <td valign="text-top">[WIP]Auto Market Manager is a 2D game about managing a futuristic supermarket with robots.[WIP]</td> <!--desc-->
+    </tr>
+    <tr>
+      <td align="center"><a href="">Read More</a></td> <!--link1-->
+      <td align="center"><a href="">Read More</a></td> <!--link2-->
     </tr>
   </tbody>
 </table>
