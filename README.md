@@ -56,7 +56,7 @@ hazzelnathaniel25@gmail.com
         <img src="https://github.com/HazzelNat/HazzelNat/blob/main/Wild%20Rescue.gif" alt="1" style="width:100%;height:auto;">
       </td>
       <td align="center">
-        <img src="" alt="2" style="width:100%;height:auto;">
+        <img src="https://github.com/HazzelNat/HazzelNat/blob/main/Screenshot%202024-11-15%20115010.png" alt="2" style="width:100%;height:auto;">
       </td>
     </tr>
     <tr>
