@@ -47,7 +47,7 @@ hazzelnathaniel25@gmail.com
   <thead>
     <tr>
       <th width="50%" align="center"><a>Wild Rescue</a></th> <!--tittle 3-->
-      <th width="50%" align="center"><a>[WIP]Hex Tank[WIP]</a></th> <!--tittle 4-->
+      <th width="50%" align="center"><a>[WIP] Hex Tank [WIP]</a></th> <!--tittle 4-->
     </tr>
   </thead>
   <tbody>
@@ -65,7 +65,7 @@ hazzelnathaniel25@gmail.com
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/HazzelNat/WILDRESCUE2">Read More</a></td> <!--link1-->
-      <td align="center"><a href="">Read More</a></td> <!--link2-->
+      <td align="center"><a href="https://github.com/HazzelNat/Hex-Tank">Read More</a></td> <!--link2-->
     </tr>
   </tbody>
 </table>
