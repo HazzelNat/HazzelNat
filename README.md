@@ -33,7 +33,7 @@ hazzelnathaniel25@gmail.com
       <td valign="text-top">Gothic Platformer is a side scrolling platformer themed in a fantasy medieval time. You play as the knight and try to get to the finish, while avoiding supernatural monsters.</td> <!--desc-->
     </tr>
     <tr>
-      <td align="center"><a href="">Read More</a></td> <!--link1-->
+      <td align="center"><a href="https://github.com/HazzelNat/Space-Pong">Read More</a></td> <!--link1-->
       <td align="center"><a href="https://github.com/HazzelNat/SideScroller">Read More</a></td> <!--link2-->
     </tr>
   </tbody>
