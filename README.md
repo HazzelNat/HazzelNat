@@ -15,7 +15,7 @@ hazzelnathaniel25@gmail.com
 <table width="100%">
   <thead>
     <tr>
-      <th width="50%" align="center"><a>Simple Pong</a></th> <!--tittle-->
+      <th width="50%" align="center"><a>Space Pong</a></th> <!--tittle-->
       <th width="50%" align="center"><a>Gothic Platformer</a></th> <!--tittle-->
     </tr>
   </thead>
