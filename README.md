@@ -47,7 +47,7 @@ hazzelnathaniel25@gmail.com
   <thead>
     <tr>
       <th width="50%" align="center"><a>Wild Rescue</a></th> <!--tittle 3-->
-      <th width="50%" align="center"><a>[WIP]Auto Market Manager[WIP]</a></th> <!--tittle 4-->
+      <th width="50%" align="center"><a>[WIP]Hex Tank[WIP]</a></th> <!--tittle 4-->
     </tr>
   </thead>
   <tbody>
@@ -61,7 +61,7 @@ hazzelnathaniel25@gmail.com
     </tr>
     <tr>
       <td valign="text-top">Wild Rescue is a Software Engineering project, it is top-down shooter game. You play as a ranger that needs to track endangered animals. Use your sleep dart gun to put them to sleep to tag them.</td> <!--desc-->
-      <td valign="text-top">[WIP]Auto Market Manager is a 2D game about managing a futuristic supermarket with robots.[WIP]</td> <!--desc-->
+      <td valign="text-top">[WIP]Hex Tank is a 3D turn-based hex-tiled tactics game with tanks.[WIP]</td> <!--desc-->
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/HazzelNat/WILDRESCUE2">Read More</a></td> <!--link1-->
