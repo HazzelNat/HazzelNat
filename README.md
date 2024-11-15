@@ -29,7 +29,7 @@ hazzelnathaniel25@gmail.com
       </td>
     </tr>
     <tr>
-      <td valign="text-top">Simple Pong is the first game made in Unity, there are single player or two-player mode, other than that it's a simple pong, really.</td> <!--desc-->
+      <td valign="text-top">Space Pong is a Pong game based in space. It has four different game modes, including online multiplayer lobby.</td> <!--desc-->
       <td valign="text-top">Gothic Platformer is a side scrolling platformer themed in a fantasy medieval time. You play as the knight and try to get to the finish, while avoiding supernatural monsters.</td> <!--desc-->
     </tr>
     <tr>
