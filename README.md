@@ -56,12 +56,12 @@ hazzelnathaniel25@gmail.com
         <img src="https://github.com/HazzelNat/HazzelNat/blob/main/Wild%20Rescue.gif" alt="1" style="width:100%;height:auto;">
       </td>
       <td align="center">
-        <img src="https://github.com/HazzelNat/HazzelNat/blob/main/Screenshot%202024-11-15%20115010.png" alt="2" style="width:100%;height:auto;">
+        <img src="https://github.com/HazzelNat/HazzelNat/blob/main/Hex%20Tank.gif" alt="2" style="width:100%;height:auto;">
       </td>
     </tr>
     <tr>
       <td valign="text-top">Wild Rescue is a Software Engineering project, it is top-down shooter game. You play as a ranger that needs to track endangered animals. Use your sleep dart gun to put them to sleep to tag them.</td> <!--desc-->
-      <td valign="text-top">[WIP]Hex Tank is a 3D turn-based hex-tiled tactics game with tanks.[WIP]</td> <!--desc-->
+      <td valign="text-top">Hex Tank is a 3D turn-based hex-tiled tactics game with tanks.</td> <!--desc-->
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/HazzelNat/WILDRESCUE2/blob/main/README.md">Read More</a></td> <!--link1-->
